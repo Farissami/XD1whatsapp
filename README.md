@@ -29,7 +29,7 @@ Run the Whatsapp bot
 After running it you need to scan the QR
 
 ### Information
-- Change ownerNumber on [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/setting.json#L2)
+- هنا تغير رقم الاونر [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/setting.json#L2)
 - Change groupLimit on [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/setting.json#L3)
 - Change memberLimit on [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/setting.json#L4)
 - Change prefix on [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/setting.json#L5)
