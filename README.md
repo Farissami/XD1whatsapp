@@ -1,24 +1,3 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/35982346/123402400-e57d3000-d5d1-11eb-84c0-6881b56ad370.png" height="128"/>
-</p>
-<p align="center">
-<a href="https://github.com/dngda/bot-whatsapp"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Sero Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-  <br>
-Multipurpose WhatsApp Bot using open-wa/wa-automate-nodejs library!<hr>
-</p>
-<h3 align="center">Made with ❤️ by</h3>
-<p align="center">
-<a href="https://github.com/dngda/"><img title="Author" src="https://img.shields.io/badge/author-dngda-blue?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/dngda/followers"><img title="Followers" src="https://img.shields.io/github/followers/dngda?color=blue&style=flat-square"></a>
-<a href="https://github.com/dngda/bot-whatsapp/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/dngda/bot-whatsapp?color=red&style=flat-square"></a>
-<a href="https://github.com/dngda/bot-whatsapp/network/members"><img title="Forks" src="https://img.shields.io/github/forks/dngda/bot-whatsapp?color=red&style=flat-square"></a>
-<a href="https://github.com/dngda/bot-whatsapp/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/dngda/bot-whatsapp?label=watchers&color=blue&style=flat-square"></a>
-  <br><a href="https://www.codefactor.io/repository/github/dngda/bot-whatsapp"><img src="https://www.codefactor.io/repository/github/dngda/bot-whatsapp/badge" alt="CodeFactor" /></a> <a href="https://sonarcloud.io/dashboard?id=dngda_bot-whatsapp"><img src="https://sonarcloud.io/api/project_badges/measure?project=dngda_bot-whatsapp&metric=alert_status" alt="SonarCloud" /></a>
-  <br>
-<a href="https://github.com/open-wa/wa-automate-nodejs"><img src="https://raw.githubusercontent.com/open-wa/wa-automate-nodejs/master/resources/hotfix-logo.png" height="64"/></a>
-</p>
 
 ## Getting Started
 
@@ -68,151 +47,131 @@ After running it you need to scan the QR
 ---
 
 ## Features
-Operasi kalkulator gunakan prefix (=)
+فيما يلي بعض الميزات الموجودة في هذا الروبوت!✨
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
+ملحوظات:
+
+بجانب (/) سيستجيب الروبوت أيضًا للرموز التالية:
+\ / ! $ ^ % & + . , -
+
+تشغيل الآلة الحاسبة باستخدام البادئة (=)
 (cth: =10+2+4)
 
-Informasi
-- donate or donasi
-- ping or speed
-- owner
-- stat
+╔══✪〘 ‼️ اقراء قبل البدا ‼️ 〙✪
+╠> .tnc atau .rules
+╚> اقرأ وافهم قبل المتابعة
 
-Converter
-- getimage or toimg
--> Mengubah sticker menjadi gambar.
-- sticker or stiker or s
--> Mengubah gambar/video menjadi sticker.
-- stickergiphy
--> Mengubah url giphy menjadi sticker.
-- doctopdf or pdf
--> Mengubah dokumen menjadi pdf.
-- qrcode or qr
--> Membuat QRcode dari text.
-- tts or say
--> Mengubah text menjadi suara Google.
-- shortlink
--> Pemendek url menggunakan tinyurl.
-- translate
--> Google translate text.
-- memefy
--> Menambahkan text pada gambar.
-- tomp3
--> Convert video ke audio.
-- hilih
--> Mengubah text vokal menjadi huruf i.
-- ssweb
--> Screenshot url website.
-- flip
--> Balik gambar scr horizontal/vertikal.
+╔══✪〘 💬 معلومات البوت 💬 〙✪
+╠> .donate atau .donasi
+╠> .ping atau .speed
+╠> .owner
+╠> .stat
+╚══✪
 
-Downloader
-- tiktokmp3
--> Download musik dari link tiktok.
-- tiktok
--> Download tiktok tanpa watermark.
-- ytmp3
--> Download mp3 dari link youtube.
-- ytmp4
--> Download mp4 dari link youtube.
+╔══✪〘 ⚙ اوامر التحويل ⚙ 〙✪
+╠> .getimage atau .toimg
+║   حوّل الملصقات إلى صور.
+╠> .sticker atau .stiker atau .s
+║   تحويل الصور / مقاطع الفيديو إلى ملصقات.
+╠> .doctopdf atau .pdf
+║   تحويل المستندات إلى pdf.
+╠> .qrcode atau .qr
+║   إنشاء QRcode من النص.
+╠> .tts atau .say
+║   تحويل النص إلى صوت جوجل.
+╠> .shortlink
+║   اختصار الروابط.
+╠> .tomp3
+║   تحويل الفيديو إلى صوت.
+╠> .ssweb
+║   لقطة من رابط الموقع.
+╠> .flip
+║   قلب الصورة أفقيًا / رأسيًا.
+╚══✪
 
-Audio Converter
--> Menambahkan efek suara pada audio.
-- nightcore
-- deepslow
-- samarkan
-- vibrato
-- earrape
-- reverse
-- robot
-- cf
--> Custom complex filter (Expert user only)
+╔══✪〘 🧬 صانع 🧬 〙✪
+╠> .ttp
+║   نص للصورة (ملصقات)
+╚══✪
 
-Islam
-- listsurah
--> Daftar surah yang tersedia.
-- infosurah
--> Info surah yang diinginkan.
-- jsholat
--> Jadwal sholat sesuai daerah.
-- alaudio
--> Audio dari surah yg diinginkan.
-- tafsir
--> Tafsir surah yg diinginkan.
-- surah
--> Menampilkan ayat dari surah yang diinginkan.
+╔══✪〘 📩 تنزيل 📩 〙✪
+╠> .tiktokmp3 atau .ttmp3
+║   قم بتنزيل الموسيقى من رابط Tiktok.
+╠> .tiktok atau .tt
+║   قم بتنزيل Tiktok بدون علامة مائية.
+╠> .igstory
+║   تنزيل الحالة من الانستقرام.
+╠> .ytmp3
+║   تحميل mp3 من رابط يوتيوب.
+╠> .ytmp4
+║   قم بتنزيل mp4 من رابط يوتيوب.
+╠> .fbdl
+║   قم بتنزيل الوسائط من رابط Facebook.
+╠> .twdl
+║   قم بتنزيل الوسائط من رابط Twitter.
+╠> .igdl
+║   قم بتنزيل الوسائط من رابط Instagram.
+╚══✪
 
-Random
--> Random berarti acak.
-- katabijak
-- skripsi
-- pantun
-- fakta
-- quote
-- anime
-- memes
+╔══✪〘 🔊 محول الصوتيات 🔊 〙✪
+║   إضافة المؤثرات الصوتية إلى الصوت.
+╠> .nightcore
+╠> .deepslow
+╠> .samarkan
+╠> .vibrato
+╠> .earrape
+╠> .reverse
+╠> .robot
+╠> .8d
+╠══✪
+╠> .cf
+║   مرشح مركب ffmpeg مخصص (Expert user only)
+╚══✪
 
-Search
-- pinterest or pin
--> Search gambar dari pinterest.
-- gimages or gimg
--> Search gambar dari Google.
-- whatanime
--> Mencoba menebak anime dari gambar.
-- artinama
--> Primbon arti nama, hanya hiburan.
-- sreddit
--> Search gambar dari Subreddit.
-- lirik
--> Search lirik lagu.
-- play
--> Search lagu dari Youtube.
-- kbbi
--> Search arti kata dalam KBBI.
-- yt
--> Search Youtube.
 
-Hiburan
-- tebakgambar
--> Main tebak gambar.
-- apakah
--> Puja kerang ajaib!!!
-- sfx
--> Mengirimkan audio yg tersedia.
-- ToD
--> Group only. Truth or dare?
 
-Info
-- cekcovid
--> Cek sebaran covid sesuai lokasi.
-- crjogja
--> Radar cuaca lokasi Jogja.
-- cuaca
--> Informasi cuaca sesuai daerah.
-- resi
--> Cek resi barang sesuai kurir.
 
-Anti Toxic
--> Group only. Anti kata kasar.
-- antikasar
-- klasemen
-- reset
 
-More Useful
-- tagall or alle
--> Group only. Tag seluruh member.
-- join or sewa
--> Sewa bot untuk join group kalau slot tersedia.
-- remind
--> Kirimkan pesan ulang sesuai waktu yg ditentukan.
-- list
--> Membuat list atau daftar yg disimpan di bot.
-- note
--> Membuat note atau catatan yg disimpan di bot.
-- bye
--> Group only. Keluarkan bot.
-- del
--> Hapus pesan bot.
+╔══✪〘 🔎 بحث 🔍 〙✪
+╠> .gimages atau .gimg
+║   البحث عن الصور من جوجل.
+╠> .gsearch atau .gs
+║   البحث عن لقطة شاشة من جوجل.
+╠> .lirik
+║   البحث عن كلمات الأغاني.
+╠> .play
+║   البحث عن الأغاني من يوتيوب.
+╠> .yt
+║   بحث يوتيوب.
+╚══✪
 
+
+
+╔══✪〘 🤬 مضادات 🤬 〙✪
+║   المجموعات فقط. مكافحة الكلمات الوقحة.
+╠> .antikasar
+╠> .klasemen
+╠> .reset
+╚══✪
+
+╔══✪〘 🤩 اوامر مهمه 🤩 〙✪
+╠> .tagall atau .alle
+║   اظهار جميع اعضاء القروب.
+╠> .join atau .sewa
+║   استأجر روبوتًا للانضمام إلى المجموعة في حالة توفر فتحة.
+╠> .listonline
+║   اظهار الاعضاء المتصلين حاليا .
+╠> .remind
+║   إعادة إرسال رسالة في الوقت المحدد.
+╠> .list
+║   قم بإنشاء قائمة أو قائمة مخزنة في الروبوت.
+╠> .note
+║   قم بإنشاء ملاحظة أو ملاحظات مخزنة في الروبوت.
+╠> .bye
+║   المجموعات فقط. أخرج الروبوت.
+╠> .del
+║   احذف رسائل الروبوت.
+║
 
 ---
 
