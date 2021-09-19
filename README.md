@@ -168,5 +168,5 @@ Run the Whatsapp bot
 ```
 
 ## Thanks to
-البوت ليس من برمجتي بل من برمجة -  :https://github.com/dngda/bot-whatsapp 
+- البوت ليس من برمجتي بل من برمجة : https://github.com/dngda/bot-whatsapp  
 - انا قمت بترجمته و التعديل على بعض الاوامر لتناسب البرمجة
