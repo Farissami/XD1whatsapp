@@ -1,9 +1,9 @@
 
-## Getting Started
+## للبدء
 
-This project require NodeJS v12
+يتطلب هذا المشروع NodeJS v12
 
-### Install
+### التثبيت
 Clone this project
 
 ```bash
@@ -11,39 +11,33 @@ Clone this project
 > cd bot-whatsapp
 ```
 
-You need to install Libreoffice to use doctopdf command
+أنت بحاجة إلى تثبيت Libreoffice لاستخدام أمر dicopdf
 
-Install the dependencies:
+لتثبيت البكجات:
 
 ```bash
 > npm install
 ```
 
-### Usage
+### للاستعمال
 Run the Whatsapp bot
 
 ```bash
 > npm start
 ```
 
-After running it you need to scan the QR
+بعد تشغيله ، تحتاج إلى مسح QR
 
-### Information
+### معلومة
 - هنا تغير رقم الاونر [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/setting.json#L2)
-- Change groupLimit on [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/setting.json#L3)
-- Change memberLimit on [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/setting.json#L4)
-- Change prefix on [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/setting.json#L5)
-- Change menu on [this section](https://github.com/dngda/bot-whatsapp/blob/main/lib/menu.js#L34)
-- Add kata kasar on [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/katakasar.json)
-- Change all apiKey on [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/api.json.example) then *rename to api.json*
+- تغيير الحد الاقصاء للقروبات [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/setting.json#L3)
+- تغيير الحد الاقصاء للاعضاء [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/setting.json#L4)
+- تغيير البرفكس [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/setting.json#L5)
+- التعديل على المنيو [this section](https://github.com/dngda/bot-whatsapp/blob/main/lib/menu.js#L34)
+- اضافة كلمات مسيئة [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/katakasar.json)
+- اضافة API [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/api.json.example) then *rename to api.json*
 
-- Create Saweria account and get SaweriaOverlay on [this website](https://saweria.co)
-- Get Api NoBackground on [this website](https://www.remove.bg/)
-- Get Api LolHuman on [this website](https://lolhuman.herokuapp.com)
-- Get Api Fariaz on [this website](https://rest.farzain.com)
-- Get Api Genius on [this website](https://genius.com/developers)
-- Get Api Itech on [this website](https://api.i-tech.id)
-- Get Api Ocr on [this website](https://ocr.space/OCRAPI)
+
 ---
 
 ## Features
@@ -164,19 +158,15 @@ After running it you need to scan the QR
 - ║
 ---
 
-## Troubleshooting
-Make sure all the necessary dependencies are installed: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
+## استكشاف الأخطاء وإصلاحها
+تأكد من تثبيت جميع التبعيات الضرورية: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
 
-Fix Stuck on linux, install google chrome stable: 
+إصلاح مشكلة عالقة في نظام التشغيل Linux ، قم بتثبيت استقرار google chrome: 
 ```bash
 > wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 > sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
 
 ## Thanks to
-- [Open-WA-Automate](https://github.com/open-wa/wa-automate-nodejs)
-- [YogaSakti](https://github.com/YogaSakti/imageToSticker)
-- [MhankBarBar](https://github.com/MhankBarBar/whatsapp-bot)
-- [ArugaZ](https://github.com/ArugaZ/whatsapp-bot)
-- [Aziz0404](https://github.com/nuraziz0404/botwa)
-- [Gimenz](https://github.com/Gimenz)
+البوت ليس من برمجتي بل من برمجة :https://github.com/dngda/bot-whatsapp 
+انا قمت بترجمته و التعديل على بعض الاوامر لتناسب البرمجة
