@@ -7,7 +7,7 @@
 Clone this project
 
 ```bash
-> git clone https://github.com/dngda/bot-whatsapp
+> git clone https://github.com/Farissami/XD1whatsapp.git
 > cd bot-whatsapp
 ```
 
